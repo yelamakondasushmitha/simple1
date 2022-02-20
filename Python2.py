@@ -1,5 +1,6 @@
-a=int(input("enter a value : "))
-b=int(input("enter a value : "))
+a=4
+b=6
 
 c=a+b
-print(c)
+print c
+print "exit from the code "
